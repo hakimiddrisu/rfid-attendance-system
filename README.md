@@ -1,5 +1,3 @@
-# rfid-attendance-system
-An RFID-based attendance system using ESP32 for automated attendance recording and digital record management.
 # RFID Attendance System
 
 An ESP32-based RFID attendance system designed to automate attendance recording, reduce manual workload, and minimize errors in attendance records.
